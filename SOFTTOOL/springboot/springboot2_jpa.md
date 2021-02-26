@@ -53,7 +53,7 @@ spring
 spring:
   datasource:
     druid:
-      url: jdbc:mysql://121.36.62.166:3306/fund?tinyInt1isBit=false&useUnicode=true&autoReconnect=true&useSSL=false&characterEncoding=UTF8&allowMultiQueries=true&serverTimezone=Asia/Shanghai&nullCatalogMeansCurrent=true
+      url: jdbc:mysql://a.b.c.d:3306/fund?tinyInt1isBit=false&useUnicode=true&autoReconnect=true&useSSL=false&characterEncoding=UTF8&allowMultiQueries=true&serverTimezone=Asia/Shanghai&nullCatalogMeansCurrent=true
       username: moma
       password: Pq6/hB/fom8njo8Pu7DdRmPVqud/Kna0RxQWaIyx6w1Ui8TcO/Cxr1rLYnXRypu4Oe5fLJWGgmUVB01A2n4b1g==
       connectionProperties: config.decrypt=true;config.decrypt.key=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAPMvAZepxl9af6NzrGBkVR6kvj3ioOYjFUmjH9DFwxMaMZvDjKMKvowa4lH4fSpBPFeyMUwpv6vUuaTagTXBiPMCAwEAAQ==
